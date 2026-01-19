@@ -1,0 +1,4 @@
+comment = 'Block UPDATE/DELETE without WHERE clause'
+default_version = '1.0'
+module_pathname = '$libdir/pg_strict'
+relocatable = true
